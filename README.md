@@ -11,3 +11,13 @@ In the above paper, we represent hypergraphs as partially ordered sets or posets
 
 1. **_generate_poset.py_**: Python script to generate the two-dimensional simplicial complex associated with a hypergraph. Details of the input and output files are provided within the script. 
 2. **_poset_geometry.py_**: Python script to compute the Forman-Ricci curvatures, scalar curvatures and the Euler characteristic of the two-dimensional simplicial complex associated with a hypergraph. Details of the input and output files are provided within the script. 
+
+## Hypergraph datasets
+
+The directory [hypergraph_datasets]() contains the 12 real-world hypergraphs considered in our work. 
+
+**Note:** Please cite the mentioned references if you use a dataset in your work.
+
+**biogrid**
+[1] Stark, C.; Breitkreutz, B.J.; Reguly, T.; Boucher, L.; Breitkreutz, A.; Tyers, M. BioGRID: A general repository for interaction datasets.
+Nucleic Acids Res. 2006, 34, D535–D539.
