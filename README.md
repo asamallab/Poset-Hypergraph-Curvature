@@ -9,3 +9,5 @@ In the above paper, we represent hypergraphs as partially ordered sets or posets
 
 ## Codes
 
+1. **_generate_poset.py_**: Python script to generate the two-dimensional simplicial complex associated with a hypergraph. Details of the input and output files are provided within the script. 
+2. **_poset_geometry.py_**: Python script to compute the Forman-Ricci curvatures, scalar curvatures and the Euler characteristic of the two-dimensional simplicial complex associated with a hypergraph. Details of the input and output files are provided within the script. 
