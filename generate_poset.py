@@ -8,10 +8,10 @@ arg2 -> hyperedges of the hypergraph
 
 Output files:-
 arg3 -> each line contains the ID of a node in the poset complex
-arg4 -> 1-skeleton of the poset complex (in adjacency list format)
-arg5 -> 2-skeleton of the poset complex (in edgelist format)
+arg4 -> 1-dimensional poset complex (in adjacency list format)
+arg5 -> 2-dimensional poset complex (in edgelist format)
 arg6 -> cardinalities of nodes
-arg7 -> triangular faces in the 2-skeleton
+arg7 -> triangular faces in the 2-dimensional poset complex
 '''
 
 import time
