@@ -18,6 +18,6 @@ The directory [hypergraph_datasets]() contains the 12 real-world hypergraphs con
 
 **Note:** Please cite the mentioned references if you use a dataset in your work.
 
-**biogrid**
-[1] Stark, C.; Breitkreutz, B.J.; Reguly, T.; Boucher, L.; Breitkreutz, A.; Tyers, M. BioGRID: A general repository for interaction datasets.
+1. **biogrid** <br>
+* Stark, C.; Breitkreutz, B.J.; Reguly, T.; Boucher, L.; Breitkreutz, A.; Tyers, M. BioGRID: A general repository for interaction datasets.
 Nucleic Acids Res. 2006, 34, D535–D539.
