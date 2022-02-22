@@ -14,9 +14,11 @@ In the above paper, we represent hypergraphs as partially ordered sets or posets
 
 ## Hypergraph datasets
 
-The directory [hypergraph_datasets]() contains the 12 real-world hypergraphs considered in our work. 
+The directory **_hypergraph_datasets_** contains the 12 real-world hypergraphs considered in our work. This directory is organized into two sub-directories:
+1. **_nodes_**: Contains the nodes corresponding to each of the 12 hypergraphs as separate text files. Each line in a text file is a natural number index corresponding to a given node in the hypergraph.
+2. **_hyperedges_**: Contains the hyperedges corresponding to each of the 12 hypergraphs as separate text files. Each line in a text file is a tab separated list of nodes contained in a hyperedge.
 
-**Note:** Please cite the mentioned references if you use a dataset in your work.
+> **NOTE:** Please cite the mentioned references if you use a dataset in your work.
 
 - **biogrid**
   - Stark, C.; Breitkreutz, B.J.; Reguly, T.; Boucher, L.; Breitkreutz, A.; Tyers, M. BioGRID: A general repository for interaction datasets.
