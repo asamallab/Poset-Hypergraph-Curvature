@@ -1,2 +1,2 @@
-# Posets-Hypergraph-Curvature
+# Poset-Hypergraph-Curvature
  
