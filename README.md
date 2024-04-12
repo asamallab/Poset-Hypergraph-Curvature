@@ -1,9 +1,9 @@
 # Poset-Hypergraph-Curvature
  
-This repository contains the codes and datasets associated with the following paper:<br>
-<i>A Poset-Based Approach to Curvature of Hypergraphs.</i><br>
-Yasharth Yadav, Areejit Samal, Emil Saucan.<br>
-Symmetry **2022**, 14, 420. https://doi.org/10.3390/sym14020420<br>
+This repository contains the codes and datasets associated with the following research article:<br>
+
+Yasharth Yadav, Areejit Samal, Emil Saucan*, [<i>A Poset-Based Approach to Curvature of Hypergraphs</i>](https://www.mdpi.com/2073-8994/14/2/420), Symmetry, 14(2):420, 2022.<br>
+(* Corresponding author)
 
 In the above paper, we represent hypergraphs as partially ordered sets or posets, and provide a geometric framework based on posets to compute the Forman–Ricci curvature of vertices as well as hyperedges in hypergraphs. Thereafter, we perform an empirical study involving computation and analysis of the Forman–Ricci curvature of hyperedges in 12 real-world hypergraphs.
 
@@ -57,3 +57,8 @@ Nucleic Acids Res. 2006, 34, D535–D539.
 
 - **cond-mat-publications**
   - Newman, M.E.J. The structure of scientific collaboration networks. Proc. Natl. Acad. Sci. USA 2001, 98, 404–409.
+ 
+## Citation
+In case you use the codes herein, please cite the following research article:
+
+Yasharth Yadav, Areejit Samal, Emil Saucan*, [<i>A Poset-Based Approach to Curvature of Hypergraphs</i>](https://www.mdpi.com/2073-8994/14/2/420), Symmetry, 14(2):420, 2022.
